@@ -17,7 +17,7 @@ You need to have the following software installed on your local development envi
 To create a new Drupal 8 project run the following command:
 
 ```bash
-composer create-project openeuropa/drupal-site-template --stability=dev <dg-name>-<project-id>-reference
+composer create-project papegaill/drupal-site-template --stability=dev <dg-name>-<project-id>-reference
 ```
 
 This will download the starterkit into the `<dg-name>-<project-id>-reference` folder and a
