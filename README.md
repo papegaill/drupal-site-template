@@ -1,4 +1,4 @@
-# OpenEuropa template for Drupal 8 projects
+# SRB template for Drupal 8 projects
 
 [![Build Status](https://drone.fpfis.eu/api/badges/openeuropa/drupal-site-template/status.svg?branch=master)](https://drone.fpfis.eu/openeuropa/drupal-site-template)
 
