@@ -12,9 +12,7 @@
         "drupal-composer/drupal-scaffold": "^2.5",
         "drupal/core": "^8.7",
         "drush/drush": "^9.0",
-        "openeuropa/composer-artifacts": "~0.1",
-        "openeuropa/oe_profile": "^0.3",
-        "openeuropa/oe_theme": "^1.0",
+        "papegaill/srb_theme": "v1.0.0",
         "webflo/drupal-finder": "^1.0",
         "webmozart/path-util": "^2.3"
     },
@@ -47,14 +45,6 @@
         }
     },
     "extra": {
-        "artifacts": {
-            "openeuropa/oe_theme": {
-                "dist": {
-                    "url": "https://github.com/{name}/releases/download/{pretty-version}/{project-name}-{pretty-version}.tar.gz",
-                    "type": "tar"
-                }
-            }
-        },
         "composer-exit-on-patch-failure": true,
         "enable-patching": true,
         "installer-paths": {
