@@ -2,7 +2,7 @@ drupal:
   root: "web"
   base_url: ${env.DRUPAL_BASE_URL}
   site:
-    profile: "oe_profile"
+    profile: "standard"
     name: "My OpenEuropa site"
     generate_db_url: false
   account:
